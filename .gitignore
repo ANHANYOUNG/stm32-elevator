@@ -1,0 +1,33 @@
+# STM32 build outputs
+Debug/
+Release/
+build/
+
+# compiled / generated files
+*.o
+*.d
+*.su
+*.elf
+*.axf
+*.map
+*.list
+*.hex
+*.bin
+*.cyclo
+
+# generated make / build metadata
+*/Debug/
+*/Release/
+*/build/
+
+# IDE local settings
+.settings/
+.metadata/
+*.launch
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.bak
