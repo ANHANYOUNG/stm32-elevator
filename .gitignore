@@ -2,7 +2,7 @@
 Debug/
 Release/
 build/
-
+*.pdf
 # compiled / generated files
 *.o
 *.d
